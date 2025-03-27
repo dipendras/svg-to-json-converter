@@ -15,3 +15,7 @@ LIFT_HEIGHT = 100.0
 TOLERANCE = 1e-2  # Threshold for detecting connected segments
 INTERPOLATION_SPACING = 10  # Interpolated points every 10 units
 ```
+
+
+# Example
+Example svg: https://www.svgrepo.com/download/530575/trophy.svg
