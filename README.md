@@ -3,6 +3,8 @@
 # Usage
 ```
 python3 convert_svg.py path/to/svg.svg /path/to/json.json
+
+python3 convert_svg.py hello.svg hello.json
 ```
 
 # Parameters (See convert_svg.py)
@@ -18,4 +20,6 @@ INTERPOLATION_SPACING = 10  # Interpolated points every 10 units
 
 
 # Example
-Example svg: https://www.svgrepo.com/download/530575/trophy.svg
+Example svgs: 
+1. https://www.svgrepo.com/download/530575/trophy.svg
+2. https://www.svgrepo.com/download/535115/alien.svg
